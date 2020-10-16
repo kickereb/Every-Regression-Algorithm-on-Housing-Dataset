@@ -8,3 +8,5 @@ This repository contains the code and notebook for applying the following on Cal
 * Lasso
 * Ridge
 * Elastic Net
+
+Reference from (here)<https://jhimlib.github.io/CaliforniaHousingPricePrediction/>
