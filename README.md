@@ -9,4 +9,4 @@ This repository contains the code and notebook for applying the following on Cal
 * Ridge
 * Elastic Net
 
-Reference from (here)<https://jhimlib.github.io/CaliforniaHousingPricePrediction/>
+Reference from [here](https://jhimlib.github.io/CaliforniaHousingPricePrediction/)
